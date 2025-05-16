@@ -9,7 +9,6 @@
     <version>1.0-SNAPSHOT</version>
     <packaging>pom</packaging>
     <modules>
-        <module>qwe</module>
         <module>Homework</module>
         <module>Lesson_2</module>
         <module>Lesson_3</module>

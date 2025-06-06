@@ -27,8 +27,8 @@ public class Task3 {
     }
 
     public static void main(String[] args) {
-        int x = Integer.parseInt("110101", 2);
-        int y = Integer.parseInt("1011011", 2);
+        int x = Integer.parseInt("1111111110101010101", 2);
+        int y = Integer.parseInt("10101010101011111011", 2);
 
         int result = karatsuba(x, y);
 
